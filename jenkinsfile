@@ -1,7 +1,7 @@
 @Library('Todoshop') _
 
 todoshop (
-        COMPONENT             : 'login',
+        COMPONENT             : "login",
         PROJECT_NAME          : "Todoshop",
         SLAVE_LABEL           : "node",
         SKIP_NEXUS_UPLOAD     : false,
